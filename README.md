@@ -1,5 +1,5 @@
-# [Start Bootstrap - 1 Col Portfolio](https://startbootstrap.com/template-overviews/1-col-portfolio/)
 
+<<<<<<< HEAD
 [1 Col Portfolio](https://startbootstrap.com/template-overviews/1-col-portfolio/) is a single column portfolio layout template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
@@ -66,3 +66,5 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/gh-pages/LICENSE) license.
 echo # bananocontest.github.io
 # bananocontest.github.io
+=======
+>>>>>>> 92a353c3451fa1f4198209029287a857a8ff2cec
